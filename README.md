@@ -52,7 +52,7 @@ A backend project focused on URL shortening, API design, and exploring caching s
 [View Repository](https://github.com/therealghostdev/url-shortner)
 
 ### 👥 Workwave HR
-An HR-focused software project exploring application workflows and business processes.
+A HR-focused software focused on improving organisation workflow and business processes.
 
 [View product page](https://workwavehr.net)
 
