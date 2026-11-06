@@ -50,6 +50,14 @@ A backend project focused on URL shortening, API design, and exploring caching s
 **Tech:** Node.js · Redis · PostgreSQL
 
 [View Repository](https://github.com/therealghostdev/url-shortner)
+[Endpoint url](https://url-shortner1.up.railway.app)
+
+### 🔗 SpectreCommerce
+A multi-tenant e-commerce SaaS platform that empowers small and medium-sized businesses to launch and manage their own online stores, showcase products, process orders, and accept payments without needing to build or maintain a website from scratch.
+
+**Tech:** Node.js · Redis · PostgreSQL · NextJS
+
+[View backend Repository](https://github.com/therealghostdev/soectrcommerce)
 
 ### 👥 Workwave HR
 A HR-focused software focused on improving organisation workflow and business processes.
