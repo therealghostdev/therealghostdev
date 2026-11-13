@@ -58,8 +58,6 @@ A multi-tenant e-commerce SaaS platform that empowers small and medium-sized bus
 
 **Tech:** Node.js · Redis · PostgreSQL · NextJS
 
-[View backend Repository](https://github.com/therealghostdev/spectrecommerce-backend)
-
 ### 👥 Workwave HR
 A HR-focused software focused on improving organisation workflow and business processes.
 
